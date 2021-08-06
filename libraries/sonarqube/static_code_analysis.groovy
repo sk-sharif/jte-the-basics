@@ -1,6 +1,6 @@
 void call(){
     stage("SonarQube: Static Code Analysis"){
-        
-        println "static code analysis from the sonarqube library"
+        steps {
+            println "static code analysis from the sonarqube library" }
     }
 }
