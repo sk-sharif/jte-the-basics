@@ -1,7 +1,7 @@
 libraries{
 //     merge = true
-    grable
-//     ansible
+//     grable
+    ansible
 }
 
 // allow_scm_jenkinsfile = true 
